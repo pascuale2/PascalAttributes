@@ -1,0 +1,21 @@
+{
+  "name": "com.pascuale97.pascalattributes",
+  "displayName": "PascalAttributes",
+  "version": "0.0.1",
+  "unity": "6000.0.40f1",
+  "description": "PascalAttributes is an extension for the Unity Inspector.",
+  "keywords": [ "Attribute", "Inspector", "Editor" ],
+  "category": "Editor Extensions",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Examples Scene",
+      "description": "Examples of how to use the attributes",
+      "path": "Samples/ExamplesScene"
+    }
+  ],
+  "author": {
+    "name": "Erwin Pascual",
+    "url": "https://github.com/pascuale2"
+  }
+}
